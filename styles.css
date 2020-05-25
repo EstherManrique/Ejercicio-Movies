@@ -1,0 +1,9 @@
+.main-card {
+    border: 3px solid blue;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 10px 16px -5px rgba(0, 0, 0, 0.65);
+    text-align: center;
+}
